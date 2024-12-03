@@ -19,6 +19,10 @@ header{
     text-align: center;
 }
 
+h1{
+    font-style: oblique;
+}
+
 section{
     background: white;
     border-radius: 10px;
