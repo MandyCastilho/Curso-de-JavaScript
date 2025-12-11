@@ -1,7 +1,7 @@
 # 📘 Estudos e Evolução em JavaScript (JS)
 
 <p align="center">
-  Este repositório foi criado com o objetivo de documentar minha evolução na linguagem **JavaScript**.
+  Este repositório foi criado com o objetivo de documentar minha evolução na linguagem <strong>JavaScript</strong>.
 </p>
 
 Reúne exercícios, projetos e testes desenvolvidos ao longo dos meus estudos. Ele serve como um portfólio de **prática contínua**, evidenciando minha progressão na lógica, estrutura e boas práticas de programação.
